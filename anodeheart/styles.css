@@ -74,8 +74,8 @@
     small.credits span {
       display: inline-block;
     }
-    small.credits span:first-child:after {
-      content:" /";
+    small.credits span:last-child:before {
+      content:"/ ";
     }
 
     .hidden {
@@ -544,10 +544,6 @@
         content: " /"
       }
 
-      small.credits span:first-child:after {
-        content:"";
-	  }
-
       .circle {
         width: 22px;
         height: 22px;
@@ -577,5 +573,6 @@
       }
 
     }
+
 
 

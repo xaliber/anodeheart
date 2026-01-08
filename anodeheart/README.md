@@ -1,5 +1,6 @@
 ---
 title: "Xaliber's Anode Heart Guides"
+permalink: /anodeheart/
 ---
 
 # Xaliber's Anode Heart Guides
